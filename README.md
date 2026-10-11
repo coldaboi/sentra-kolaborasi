@@ -11,3 +11,4 @@ Repository bersama praktikum DevOps - Politeknik Negeri Batam.
 - monitoring.sh - memantau layanan secara berkala
 - healthcheck.sh - memeriksa status layanan
 >>>>>>> origin/main
+- monitoring.sh - memantau layanan secara berkala
